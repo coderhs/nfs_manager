@@ -1,0 +1,4 @@
+development:
+  exports: "./sample/exports"
+production:
+  exports: "/etc/exports"
